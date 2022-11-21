@@ -14,5 +14,9 @@ public class Function019 {
 	public void test(String str) {
 		System.out.println(str);
 	}
+	
+	public void function3() {
+		
+	}
     
 }
