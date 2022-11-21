@@ -7,4 +7,8 @@ public class Function014 {
 	private int number;
 	
 	private int i;
+	
+	public void function1() {
+		
+	}
 }
