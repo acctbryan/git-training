@@ -1,5 +1,7 @@
 package test;
 
-public class Function014 {
 
+public class Function014 {
+	
+	private String s;
 }
