@@ -9,9 +9,8 @@
 
 new 123
 
-<<<<<<< Upstream, based on branch 'master' of https://github.com/acctbryan/git-training.git
 014 test
 
-=======
+
 new branch team3
->>>>>>> 55a9242 new branch team3
+
