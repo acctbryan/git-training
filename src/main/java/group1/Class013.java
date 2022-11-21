@@ -1,8 +1,8 @@
 package group1;
 
 public class Class013 {
-public void test(int x) {
-System.out.println(x);
-System.out.println(x);
+public void test(int c) {
+System.out.println(c);
+System.out.println(c);
 }
 }
