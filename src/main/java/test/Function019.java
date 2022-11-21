@@ -10,5 +10,9 @@ public class Function019 {
 	public void setTest(String test) {
 		this.test = test;
 	}
+	
+	public void test(String str) {
+		System.out.println(str);
+	}
     
 }
