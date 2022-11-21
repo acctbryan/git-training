@@ -4,6 +4,13 @@ public class Class019 {
 	private int x123;
 
 	private String zzz123;
+	
+	@Override
+	public int hashCode() {
+		// TODO Auto-generated method stub
+		return super.hashCode();
+	}
+	
 	public int getX123() {
 		return x123;
 	}
@@ -21,5 +28,7 @@ public class Class019 {
 		System.out.println(i);
 
 	}
+	
+	
 	
 }
