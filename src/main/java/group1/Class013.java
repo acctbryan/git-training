@@ -7,6 +7,7 @@ public class Class013 {
 	 for (int i = 100 ; i <= 50 ; i--) {
 		 System.out.print(i);
 		 System.out.print(c);
+		 System.out.print(c);
 	 }
 	 System.out.println(c+""+name);
 	 int x = 1+111;
