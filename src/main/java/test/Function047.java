@@ -7,7 +7,8 @@ public class Function047 {
 	
 	
 	
-	public void test(String s) {
-		
+	public void test(String s, int i) {
+		System.out.println(s);
+		System.out.println(i);
 	}
 }
