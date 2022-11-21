@@ -8,7 +8,11 @@ public class Class019 {
 	@Override
 	public int hashCode() {
 		// TODO Auto-generated method stub
+
 		System.out.println("hi staash");
+
+		System.out.println();
+
 		return super.hashCode();
 		
 	}
