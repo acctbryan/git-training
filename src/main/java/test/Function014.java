@@ -9,6 +9,6 @@ public class Function014 {
 	private int i;
 	
 	public void function1() {
-		
+		System.out.println("014");
 	}
 }
