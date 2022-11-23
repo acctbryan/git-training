@@ -15,6 +15,9 @@ public class Function019 {
 		System.out.println(str);
 	}
 	
+	public void function2() {
+		
+	}
 	public void function3() {
 		
 	}
