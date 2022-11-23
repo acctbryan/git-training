@@ -8,5 +8,5 @@ public class Function022 {
  
  private String test3334;
  
- private String test1;
+ private String test2;
 }
